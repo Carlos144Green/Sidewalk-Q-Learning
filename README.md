@@ -3,4 +3,6 @@ In this repo the program uses Q-learning to get itself to the end of the sidewal
 
 
 
-![Sidewalk](https://user-images.githubusercontent.com/60107217/169935879-1dc09528-8def-45ae-8e3e-e096f9e50e63.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60107217/169935879-1dc09528-8def-45ae-8e3e-e096f9e50e63.gif" />
+</p>
